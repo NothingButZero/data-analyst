@@ -93,5 +93,3 @@ order_items  →  order_item_id, order_id, product_id, quantity
 Learning MySQL as part of my data analysis journey. Open to feedback, suggestions, and contributions!
 
 ---
-
-*⭐ If you find this helpful, feel free to star the repo!*
