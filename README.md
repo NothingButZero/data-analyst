@@ -75,7 +75,7 @@ order_items  →  order_item_id, order_id, product_id, quantity
 
 ## 📚 Resources I'm Learning From
 
-> 🔗 [Add Your Resource Link Here](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)  
+> 🔗 [Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)  
 > *(e.g. YouTube tutorial / Udemy course / documentation)*
 
 ---
