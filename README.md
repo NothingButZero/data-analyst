@@ -19,45 +19,6 @@ The repository is split into two sections:
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-Mysql/
-│
-├── Sql workbench/               # Core MySQL concept practice
-│   ├── select statement.sql
-│   ├── like and where statement.sql
-│   ├── order by and group by.sql
-│   ├── limit and aliasing.sql
-│   ├── having statement.sql
-│   ├── joins.sql
-│   ├── unions.sql
-│   ├── string functions.sql
-│   ├── case statement.sql
-│   ├── subqueries.sql
-│   ├── cte - comman table express.sql
-│   ├── window functions.sql
-│   ├── temp table.sql
-│   ├── Stored Procedures.sql
-│   ├── event and tiggers.sql
-│   └── db.sql
-│
-└── practice set - 1/            # Real-world tasks on NovaKart DB
-    ├── database and its task.sql
-    ├── task 1.sql  →  Find all customers from Surat
-    ├── task 2.sql  →  Show top 5 expensive products
-    ├── task 3.sql  →  Find unique product categories
-    ├── task 4.sql  →  Find total revenue generated
-    ├── task 5.sql  →  Total orders placed by each customer
-    ├── task 6.sql  →  Average product price per category
-    ├── task 7.sql  →  Customer names with their orders
-    ├── task 8.sql  →  Find products never ordered
-    ├── task 9.sql  →  Top 3 customers by spending
-    └── task 10.sql →  Monthly revenue report
-```
-
----
-
 ## 🏪 NovaKart Database Schema
 
 The `NovaKart` database is a mock Indian e-commerce store used for practice set 1.
@@ -76,7 +37,6 @@ order_items  →  order_item_id, order_id, product_id, quantity
 ## 📚 Resources I'm Learning From
 
 > 🔗 [Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)  
-> *(e.g. YouTube tutorial / Udemy course / documentation)*
 
 ---
 
