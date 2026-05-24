@@ -62,16 +62,16 @@ order_items  →  order_item_id, order_id, product_id, quantity
 - [x] Events & Triggers
 
 ### 🔷 Practice Set - 1 (NovaKart)
-- [x] Task 1 — Find all customers from Surat
-- [x] Task 2 — Show top 5 expensive products
-- [x] Task 3 — Find unique product categories
-- [x] Task 4 — Find total revenue generated
-- [x] Task 5 — Total orders placed by each customer
-- [x] Task 6 — Average product price per category
-- [x] Task 7 — Customer names with their orders
-- [x] Task 8 — Find products never ordered
-- [x] Task 9 — Top 3 customers by spending
-- [x] Task 10 — Monthly revenue report
+- [x] Task 1 - Find all customers from Surat
+- [x] Task 2 - Show top 5 expensive products
+- [x] Task 3 - Find unique product categories
+- [x] Task 4 - Find total revenue generated
+- [x] Task 5 - Total orders placed by each customer
+- [x] Task 6 - Average product price per category
+- [x] Task 7 - Customer names with their orders
+- [x] Task 8 - Find products never ordered
+- [x] Task 9 - Top 3 customers by spending
+- [x] Task 10 - Monthly revenue report
 
 ---
 
