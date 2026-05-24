@@ -10,12 +10,12 @@ A structured hands-on learning repository for **MySQL**, covering everything fro
 
 ## 📖 About This Repository
 
-This repo documents my MySQL learning journey — from writing my first `SELECT` query to solving multi-table data analysis problems on a custom-built database called **NovaKart** (a mock e-commerce store).
+This repo documents my MySQL learning journey - from writing my first `SELECT` query to solving multi-table data analysis problems on a custom-built database called **NovaKart** (a mock e-commerce store).
 
 The repository is split into two sections:
 
-- **SQL Workbench** — Concept-by-concept practice files using the `Parks_and_Recreation` sample database.
-- **Practice Set 1** — Real-world analytical tasks on the `NovaKart` database (customers, products, orders).
+- **SQL Workbench** - Concept-by-concept practice files using the `Parks_and_Recreation` sample database.
+- **Practice Set 1** - Real-world analytical tasks on the `NovaKart` database (customers, products, orders).
 
 ---
 
