@@ -83,7 +83,7 @@ This repository documents my journey of becoming a Data Analyst through hands-on
 
 The following resources have helped me throughout my Data Analytics learning journey:
 
-🎥 YouTube Channels
+🎥 YouTube Channels: 
 Alex The Analyst - [Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)
 
 ---
