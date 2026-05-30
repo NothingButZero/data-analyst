@@ -35,8 +35,6 @@ This repository documents my journey of becoming a Data Analyst through hands-on
 ### 🐍 Programming
 
 * Python *(Learning)*
-* Pandas *(Learning)*
-* NumPy *(Learning)*
 
 ### 📈 Visualization Tools
 
@@ -46,41 +44,10 @@ This repository documents my journey of becoming a Data Analyst through hands-on
 ### 📋 Spreadsheets
 
 * Microsoft Excel
-* Google Sheets
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Data-Analyst-Journey/
-│
-├── MySQL/
-│   ├── Learning Concepts
-│   ├── Practice Tasks
-│   └── Projects
-│
-├── Excel/
-│   ├── Practice Files
-│   └── Projects
-│
-├── Python/
-│   ├── Basics
-│   ├── Pandas
-│   └── Data Analysis
-│
-├── PowerBI/
-│   ├── Dashboards
-│   └── Reports
-│
-└── Projects/
-    ├── Case Studies
-    └── End-to-End Analysis Projects
-```
-
----
-
-## 🚀 Current Progress
+## 🚀 Current Learning Roadmap
 
 ### ✅ Completed
 
@@ -97,14 +64,14 @@ Data-Analyst-Journey/
 ### 🔄 Currently Learning
 
 * Advanced SQL Practice
+* Excel Analytics
+
+### 📌 Next Goals
+
+* Power BI Dashboards
 * Python for Data Analysis
 * Pandas
 * Data Visualization
-
-### 📌 Upcoming
-
-* Power BI Dashboards
-* Excel Analytics Projects
 * End-to-End Data Analysis Projects
 * Portfolio Case Studies
 
@@ -112,20 +79,25 @@ Data-Analyst-Journey/
 
 ## 📚 Learning Resources
 
-Resources, courses, books, and tutorials I use throughout my learning journey will be documented inside the relevant folders.
+📚 Learning Resources
+
+The following resources have helped me throughout my Data Analytics learning journey:
+
+🎥 YouTube Channels
+Alex The Analyst - [Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)
 
 ---
 
-## 📈 Progress Philosophy
+## 📈 Why This Repository Exists
 
-I believe the best way to learn data analytics is by building, practicing, and documenting the process publicly. This repository serves as both my learning notebook and my portfolio.
+This repository serves as my public learning log where I document concepts, practice exercises, projects, and progress as I work toward becoming a Data Analyst.
+
+Rather than only showcasing finished projects, I also share the learning process behind them - including practice work, experiments, mistakes, and improvements along the way.
 
 ---
 
 ## 🙋 About Me
 
-Aspiring Data Analyst passionate about turning raw data into meaningful insights.
-
-Every project, query, dashboard, and analysis in this repository represents a step forward in my learning journey.
+Aspiring Data Analyst passionate about turning raw data into meaningful insights through analysis, visualization, and problem-solving.
 
 ⭐ Feel free to explore the repository, share feedback, or follow along as I continue learning and building.
