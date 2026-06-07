@@ -2,61 +2,29 @@
 
 Welcome to my Data Analyst Learning Repository!
 
-This repository documents my journey of becoming a Data Analyst through hands-on learning, projects, practice exercises, and real-world datasets. Everything here represents my progress as I learn new tools, techniques, and concepts used in data analytics.
+This repository documents my journey toward becoming a Data Analyst through hands-on practice, projects, and real-world datasets. It's a place where I track my progress, share what I'm learning, and build a portfolio along the way.
+
+## 🚀 Tech Stack
+
+**Databases:** MySQL, SQL
+
+**Data Analysis:** EDA, Data Cleaning, Business Insights
+
+**Visualization:** Power BI *(Learning)*
+
+**Spreadsheets:** Microsoft Excel
+
+**Programming:** Python *(Learning)*
 
 ---
 
-## 🎯 Goals
-
-* Build a strong foundation in data analytics
-* Learn industry-standard tools and technologies
-* Practice solving real-world business problems
-* Create portfolio-worthy projects
-* Track my learning progress publicly
-
----
-
-## 🛠️ Skills & Technologies
-
-### 📂 Databases
-
-* MySQL
-* SQL Queries
-* Database Design
-* Data Cleaning
-
-### 📊 Data Analysis
-
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Insights
-* Data Reporting
-
-### 🐍 Programming
-
-* Python *(Learning)*
-
-### 📈 Visualization Tools
-
-* Power BI *(Learning)*
-* Tableau *(Planned)*
-
-### 📋 Spreadsheets
-
-* Microsoft Excel
-
----
-
-## 🚀 Current Learning Roadmap
+## 📈 Learning Progress
 
 ### ✅ Completed
 
 * SQL Fundamentals
-* Filtering & Sorting Data
-* Aggregations & Grouping
-* Joins
-* Subqueries
-* Common Table Expressions (CTEs)
+* Joins & Subqueries
+* CTEs
 * Window Functions
 * Stored Procedures
 * Triggers
@@ -65,39 +33,34 @@ This repository documents my journey of becoming a Data Analyst through hands-on
 
 * Advanced SQL Practice
 * Excel Analytics
+* Power BI
 
-### 📌 Next Goals
+### 🎯 Next Goals
 
-* Power BI Dashboards
 * Python for Data Analysis
 * Pandas
 * Data Visualization
-* End-to-End Data Analysis Projects
-* Portfolio Case Studies
+* Dashboard Development
+* End-to-End Data Projects
 
 ---
 
 ## 📚 Learning Resources
 
-📚 Learning Resources
-
-The following resources have helped me throughout my Data Analytics learning journey:
-
-🎥 YouTube Channels: 
-Alex The Analyst - [Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=4)
+* Alex The Analyst – Data Analyst Bootcamp
 
 ---
 
-## 📈 Why This Repository Exists
+## 💡 Purpose
 
-This repository serves as my public learning log where I document concepts, practice exercises, projects, and progress as I work toward becoming a Data Analyst.
+This repository serves as my public learning log where I share:
 
-Rather than only showcasing finished projects, I also share the learning process behind them - including practice work, experiments, mistakes, and improvements along the way.
+* Notes & Practice Exercises
+* Mini Projects
+* Real-World Datasets
+* Progress Updates
+* Portfolio Projects
 
----
+Learning in public, one query at a time.
 
-## 🙋 About Me
-
-Aspiring Data Analyst passionate about turning raw data into meaningful insights through analysis, visualization, and problem-solving.
-
-⭐ Feel free to explore the repository, share feedback, or follow along as I continue learning and building.
+⭐ Feel free to explore the repository and follow my journey!
